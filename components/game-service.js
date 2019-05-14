@@ -1,5 +1,5 @@
-import Target from '../models/Target.js'
-import Item from '../models/Item.js'
+import Target from '../models/Target.js';
+import Item from '../models/Item.js';
 
 let _target = new Target("Scarecrow", 100, 1, 5, 10);
 let hat = new Item("Straw Hat", 5, "It's my good hat");

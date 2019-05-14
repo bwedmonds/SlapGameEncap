@@ -1,5 +1,5 @@
 export default class Target {
-  contructor(name, health, slap, punch, kick) {
+  constructor(name, health, slap, punch, kick) {
     this.name = name
     this.health = health
     this.attacks = {
